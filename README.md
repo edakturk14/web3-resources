@@ -1,6 +1,7 @@
-# Web3 Twitter
+# Web3 Resources
 
-Twitter is a magical place, but everything gets lost so easily. Will be curatting my favorite content here. 
+There are so many great content floating around. Lots of bookmarks, notes, not even mentioning Twitter. But everything gets lost so easily. 
+Will be curatting my favorite content & what resources I'm using here. 
 
 ## Blockchain Development Guide:
 - [DevPill.me - A Public Good Blockchain Development Guide](https://twitter.com/DCbuild3r/status/1500566649530990595) 
