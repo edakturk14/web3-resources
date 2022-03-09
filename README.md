@@ -11,3 +11,6 @@ Will be curatting my favorite content & what resources I'm using here.
 - [How to Create and Mint an NFT using Filebase + Alchemy](https://docs.filebase.com/knowledge-base/web3-resources/nfts/how-to-create-and-mint-an-nft-using-filebase-+-alchemy)
 - [Filebase IPFS Support Article](https://filebase.com/blog/introducing-support-for-ipfs-backed-by-decentralized-storage/)
 - [Akash Support for Filebase](https://akash.network/blog/akash-and-filebase-replace-s3-with-multi-cloud-dweb-providers)
+
+## Twitter Follows:
+- [List of web3 creators](https://twitter.com/VittoStack/status/1501515926621106178)
