@@ -1,7 +1,7 @@
 # Web3 Resources
 
 There are so many great content floating around. Lots of bookmarks, notes, not even mentioning Twitter. But everything gets lost so easily. 
-Will be curatting my favorite content & what resources I'm using here. 
+Will be curatting my favorite content & what resources I'm using here! 
 
 ## Full Stack:
 - [The Complete Guide to Full Stack Web3 Development - Nader](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
@@ -27,3 +27,21 @@ Will be curatting my favorite content & what resources I'm using here.
 
 ## Twitter Follows:
 - [List of web3 creators](https://twitter.com/VittoStack/status/1501515926621106178)
+- [Nader Dabit](https://twitter.com/dabit3)
+- [Patrick Collins](https://twitter.com/PatrickAlphaC)
+- [Austin Griffith](https://twitter.com/austingriffith)
+- [Albert -Thatguyintech](https://twitter.com/thatguyintech)
+- [Saminacodes](https://twitter.com/saminacodes)
+- [Cami](https://twitter.com/camiinthisthang)
+- [Vitto](https://twitter.com/VittoStack)
+- [Franceso](https://twitter.com/FrancescoCiull4)
+- [Oliver](https://twitter.com/oliverjumpertz)
+- [Kacie](https://twitter.com/Haezurath)
+- [IvanOnTech](https://twitter.com/IvanOnTech)
+
+## Communities:
+- [Developer Dao](https://twitter.com/developer_dao)
+- [Buildspace](https://twitter.com/_buildspace)
+- [LearnWeb3Dao](https://twitter.com/LearnWeb3DAO)
+
+
