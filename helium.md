@@ -18,6 +18,9 @@
   - 34:40 Amir on the pod
 
 - [Frank Mong Interview - The Hotspot Podcast](https://www.youtube.com/watch?v=_TIOK0xlf7c&ab_channel=TheHotspot%C2%B7HeliumNetworkPodcast)
+  - Cool episode talking about the Helium origin story, state of the network, 5g partnership
+  - For anyone looking to get involved there are limitless opportunities
+  - The network does not belong to helium it belongs to each individual. Helium supports the network but is not the owner of the network. DeWi is the gpverning body. 
 
 ## Conferences:
 - [Physical Infrastructure With Crypto Networks |Multicoin Summit | 2021](https://www.youtube.com/watch?v=6xLLh4yNsYQ&ab_channel=MulticoinCapital)
