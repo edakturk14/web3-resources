@@ -38,9 +38,11 @@ Will be curatting my favorite content & what resources I'm using here!
 - [Cami](https://twitter.com/camiinthisthang)
 - [Vitto](https://twitter.com/VittoStack)
 - [Franceso](https://twitter.com/FrancescoCiull4)
-- [Oliver](https://twitter.com/oliverjumpertz)
+- [Oliver Jumpertz](https://twitter.com/oliverjumpertz)
 - [Kacie](https://twitter.com/Haezurath)
 - [IvanOnTech](https://twitter.com/IvanOnTech)
+- [Elan Halpern](https://twitter.com/0xElan)
+- [Sumudu Siriwardana](https://twitter.com/sumusiriwardana)
 
 ### Communities:
 - [Developer Dao](https://twitter.com/developer_dao)
