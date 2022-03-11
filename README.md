@@ -26,7 +26,10 @@ Will be curatting my favorite content & what resources I'm using here!
 - [Youtube - How to Upload Files onto the Decentralized Web! 🌐](https://www.youtube.com/watch?v=UKdZLMnKuaU&ab_channel=CodewithAniaKub%C3%B3w)
 
 ## Twitter Follows:
-- [List of web3 creators](https://twitter.com/VittoStack/status/1501515926621106178)
+### List:
+- [Currated List of Web 3 creators by Vitto](https://twitter.com/VittoStack/status/1501515926621106178)
+
+### People:
 - [Nader Dabit](https://twitter.com/dabit3)
 - [Patrick Collins](https://twitter.com/PatrickAlphaC)
 - [Austin Griffith](https://twitter.com/austingriffith)
@@ -39,7 +42,7 @@ Will be curatting my favorite content & what resources I'm using here!
 - [Kacie](https://twitter.com/Haezurath)
 - [IvanOnTech](https://twitter.com/IvanOnTech)
 
-## Communities:
+### Communities:
 - [Developer Dao](https://twitter.com/developer_dao)
 - [Buildspace](https://twitter.com/_buildspace)
 - [LearnWeb3Dao](https://twitter.com/LearnWeb3DAO)
