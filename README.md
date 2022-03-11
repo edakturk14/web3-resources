@@ -26,6 +26,7 @@ Will be curatting my favorite content & what resources I'm using here!
 - [Web3 hosting on Radicle - Nader](https://www.youtube.com/watch?v=MhoRiH2podI&ab_channel=NaderDabit)
 
 ## The Graph:
+- [Nader Building a Custom NFT API with Filtering, Sorting, Full Text Search, and Relationships](https://www.youtube.com/watch?v=VRK17Ai33Dw&ab_channel=NaderDabit)
 - [The Complete Guide to Getting Started With The Graph - Cami](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph)
 
 ## Filebase Resources:
