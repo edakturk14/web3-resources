@@ -9,6 +9,9 @@ Will be curatting my favorite content & what resources I'm using here!
 ## Blockchain Development Guide:
 - [DevPill.me - A Public Good Blockchain Development Guide](https://twitter.com/DCbuild3r/status/1500566649530990595) 
 
+## Helium:
+- [Collection of Helium Resources](https://github.com/edakturk14/web3-resources/blob/main/helium.md)
+
 ## Solidity:
 - [Sarah Amann Build your first Solidity Smart Contract](https://www.youtube.com/watch?v=ToW-ww5NgfY&ab_channel=SarahAmann)
 
