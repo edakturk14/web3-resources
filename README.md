@@ -29,6 +29,9 @@ Will be curatting my favorite content & what resources I'm using here!
 - [Nader Building a Custom NFT API with Filtering, Sorting, Full Text Search, and Relationships](https://www.youtube.com/watch?v=VRK17Ai33Dw&ab_channel=NaderDabit)
 - [The Complete Guide to Getting Started With The Graph - Cami](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph)
 
+## Livepeer:
+- [The Web3 Video Stack -Eric Tang on Developer Dao web3con](https://www.youtube.com/watch?v=_gNQRlLhfzQ&ab_channel=DeveloperDAO)
+
 ## Filebase Resources:
 - [Filebase](https://filebase.com/)
 - [How to Create and Mint an NFT using Filebase + Alchemy](https://docs.filebase.com/knowledge-base/web3-resources/nfts/how-to-create-and-mint-an-nft-using-filebase-+-alchemy)
