@@ -12,8 +12,6 @@ Will be curatting my favorite content & what resources I'm using here!
 
 ## Full Stack Development:
 - [The Complete Guide to Full Stack Web3 Development - Nader](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
-
-## Blockchain Development Guide:
 - [DevPill.me - A Public Good Blockchain Development Guide](https://twitter.com/DCbuild3r/status/1500566649530990595) 
 
 ## Helium:
