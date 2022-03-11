@@ -17,7 +17,7 @@
 - [Amir Haleem on OkayComputerPod](https://open.spotify.com/episode/3PAkGJFrMOr4gFtj7eURTV?si=C1Q1wXQrTKyzOZS_kuWm4Q&nd=1)
   - 34:40 Amir on the pod
 
-- [Frank Mong Interview - The Hotspot Podcast w/Arman](https://www.youtube.com/watch?v=_TIOK0xlf7c&ab_channel=TheHotspot%C2%B7HeliumNetworkPodcast)
+- [Frank Mong Interview - The Hotspot Podcast](https://www.youtube.com/watch?v=_TIOK0xlf7c&ab_channel=TheHotspot%C2%B7HeliumNetworkPodcast)
 
 ## Conferences:
 - [Physical Infrastructure With Crypto Networks |Multicoin Summit | 2021](https://www.youtube.com/watch?v=6xLLh4yNsYQ&ab_channel=MulticoinCapital)
