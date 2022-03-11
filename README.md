@@ -3,6 +3,13 @@
 There are so many great content floating around. Lots of bookmarks, notes, not even mentioning Twitter. But everything gets lost so easily. 
 Will be curatting my favorite content & what resources I'm using here! 
 
+**BE CAREFUL:**
+- ❌  Don't EVER share your Seed Phrase. If someone is asking for it, it's a SCAM!
+- ❌  Don't EVER push your private keys to your public repo!! Bot's will get that at the moment
+- ❌  Don't use your personal wallet for testing!
+
+---
+
 ## Full Stack Development:
 - [The Complete Guide to Full Stack Web3 Development - Nader](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
 
