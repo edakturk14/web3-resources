@@ -18,10 +18,14 @@ Will be curatting my favorite content & what resources I'm using here!
 - [Collection of Helium Resources](https://github.com/edakturk14/web3-resources/blob/main/helium.md)
 
 ## Solidity:
-- [Sarah Amann Build your first Solidity Smart Contract](https://www.youtube.com/watch?v=ToW-ww5NgfY&ab_channel=SarahAmann)
+- [Build your first Solidity Smart Contract-Sarah Amann ](https://www.youtube.com/watch?v=ToW-ww5NgfY&ab_channel=SarahAmann)
 
 ## Radicle Hosting:
 - [Web3 hosting on Radicle - Nader](https://www.youtube.com/watch?v=MhoRiH2podI&ab_channel=NaderDabit)
+
+## DAO:
+- [Build DAO w/Alchemy - Sarah Amann](https://www.youtube.com/watch?v=BK5ypcAFA8A&t=327s&ab_channel=SarahAmann)
+- [Build DAO w/Moralis](https://www.youtube.com/watch?v=S-yBqLWEtGw&ab_channel=MoralisWeb3)
 
 ## The Graph:
 - [Nader Building a Custom NFT API with Filtering, Sorting, Full Text Search, and Relationships](https://www.youtube.com/watch?v=VRK17Ai33Dw&ab_channel=NaderDabit)
