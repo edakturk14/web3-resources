@@ -17,6 +17,9 @@ Will be curatting my favorite content & what resources I'm using here!
 ## Helium:
 - [Collection of Helium Resources](https://github.com/edakturk14/web3-resources/blob/main/helium.md)
 
+## Solana:
+- (Best Resources Question on Twitter)[https://twitter.com/solana_devs/status/1504071524260749312]
+
 ## Solidity:
 - [Build your first Solidity Smart Contract-Sarah Amann ](https://www.youtube.com/watch?v=ToW-ww5NgfY&ab_channel=SarahAmann)
 
