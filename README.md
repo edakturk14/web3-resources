@@ -10,6 +10,11 @@ Will be curatting my favorite content & what resources I'm using here!
 
 ---
 
+## On web3:
+- [Chris Dixon Collection](https://twitter.com/cdixon/status/1505230965802741765)
+- [Governance at Messari](https://messari.io/governor/proposal-tracker)
+- [a16z NFT Analyst Starter Pack](https://twitter.com/DarenMatsuoka/status/1504951367428816897)
+
 ## Full Stack Development:
 - [The Complete Guide to Full Stack Web3 Development - Nader](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
 - [DevPill.me - A Public Good Blockchain Development Guide](https://twitter.com/DCbuild3r/status/1500566649530990595) 
