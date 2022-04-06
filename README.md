@@ -75,5 +75,5 @@ Will be curatting my favorite content & what resources I'm using here!
 - [Developer Dao](https://twitter.com/developer_dao)
 - [Buildspace](https://twitter.com/_buildspace)
 - [LearnWeb3Dao](https://twitter.com/LearnWeb3DAO)
-
+- [BuildGuild](https://buidlguidl.com/)
 
