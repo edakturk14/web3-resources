@@ -20,6 +20,8 @@ Will be curatting my favorite content & what resources I'm using here!
 - [The Complete Guide to Full Stack Web3 Development - Nader](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
 - [DevPill.me - A Public Good Blockchain Development Guide](https://twitter.com/DCbuild3r/status/1500566649530990595) 
 - [Scaffold-Eth](https://github.com/scaffold-eth/scaffold-eth#-scaffold-eth) by [Austin Griffith](https://twitter.com/austingriffith): Etherum Dapp template building application --> Roadmap: [SpeedRunEthereum](https://speedrunethereum.com/)
+- [Patrick Collins: Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial
+](https://www.youtube.com/watch?v=M576WGiDBdQ&t=25s&ab_channel=freeCodeCamp.org)
 
 ## Helium:
 - [Collection of Helium Resources](https://github.com/edakturk14/web3-resources/blob/main/helium.md)
